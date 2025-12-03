@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Городской блюз",
+    "artist": "Баста",
+    "url": "https://github.com/vladislafkalinichenko/Songs/raw/refs/heads/main/Basta_-_Gorodskoj_blyuz_(SkySound.cc).mp3"
+  },
+  {
+    "id": "2",
+    "title": "Maria Magdalena",
+    "artist": "Sandra",
+    "url": "https://github.com/vladislafkalinichenko/Songs/raw/refs/heads/main/Sandra_-_Maria_Magdalena_Remix_99_(SkySound.cc).mp3"
+  },
+  {
+    "id": "3",
+    "title": "Celestica",
+    "artist": "Crystal Castles",
+    "url": "https://github.com/vladislafkalinichenko/Songs/raw/refs/heads/main/Crystal_Castle_-_Celestica_(SkySound.cc).mp3"
+  },
+  {
+    "id": "4",
+    "title": "Вселенная бесконечна",
+    "artist": "Noize MC",
+    "url": "https://github.com/vladislafkalinichenko/Songs/raw/refs/heads/main/Noize_MS_-_Vselennaya_beskonechna_(SkySound.cc).mp3"
+  }
+]

@@ -13,3 +13,15 @@
 .externalNativeBuild
 .cxx
 local.properties
+/.gradle
+/build/
+/**/build/
+/.idea/
+/*.iml
+*.iws
+*.class
+*.jar
+Thumbs.db
+*.jks
+*.keystore
+/gradle/wrapper/gradle-wrapper.properties
